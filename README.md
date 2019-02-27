@@ -1,0 +1,2 @@
+# video-note-app
+REGISTRATION NOT WORKING TO REVISIT
